@@ -1,6 +1,9 @@
 requests
 bs4
 nltk
+nltk.tokenize
+nltk.corpus
+nltk.probability
 pandas
 sklearn
 numpy
