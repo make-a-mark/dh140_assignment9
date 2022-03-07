@@ -2,3 +2,13 @@ requests
 bs4
 nltk
 pandas
+string
+sklearn
+numpy
+matplotlib
+tokenize # via nltk
+corpus # via nltk
+probability # via nltk
+punctuation # via string
+datasets # via sklearn
+LinearRegression # via sklearn
