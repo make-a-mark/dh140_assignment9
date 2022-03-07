@@ -5,9 +5,3 @@ pandas
 sklearn
 numpy
 matplotlib
-tokenize # via nltk
-corpus # via nltk
-probability # via nltk
-punctuation # via string
-datasets # via sklearn
-LinearRegression # via sklearn
